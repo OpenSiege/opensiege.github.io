@@ -1,6 +1,6 @@
-title: Your awesome title
+title: OpenSiege
 lang: en
-description: Write an awesome description for your new site here
+description: OpenSiege is an open source implementation of the game Dungeon Siege by Gas Powered Games.
 repository: opensiege/opensiege.github.io
 
 remote_theme: rundocs/jekyll-rtd-theme
