@@ -1,6 +1,7 @@
 title: Your awesome title
 lang: en
 description: Write an awesome description for your new site here
+repository: opensiege/opensiege.github.io
 
 remote_theme: rundocs/jekyll-rtd-theme
 
